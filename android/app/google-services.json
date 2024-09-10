@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059789103514",
+    "project_id": "notfication-testing-2598a",
+    "storage_bucket": "notfication-testing-2598a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059789103514:android:8fa82b59e665e6cf2f1a23",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3fVasUri1RWo0yM4IfnoI_UZLYlbl698"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
